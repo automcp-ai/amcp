@@ -4,7 +4,7 @@
 [![Python Versions](https://img.shields.io/pypi/pyversions/amcp.svg)](https://pypi.org/project/amcp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Python SDK for [automcp.ai](https://automcp.ai) - Generate Model Context Protocol servers from OpenAPI specifications.
+Python SDK for [automcp.ai](https://automcp.ai) - Generate Model Context Protocol servers intelligently
 
 ## 🚧 Development Status
 
@@ -26,10 +26,7 @@ automcp.ai is a tool that automatically generates MCP (Model Context Protocol) s
 
 - **Programmatic Server Generation**: Generate MCP servers from Python code
 - **Smart Endpoint Selection**: Automatically select relevant endpoints based on use cases
-- **TypeScript Output**: Generate type-safe TypeScript MCP servers
 - **Authentication Support**: Handle various authentication methods
-- **Rate Limiting**: Built-in rate limiting support
-- **Custom Templates**: Extend with your own server templates
 
 ## Example (Coming Soon)
 
