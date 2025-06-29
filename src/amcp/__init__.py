@@ -8,7 +8,7 @@ generation of MCP servers that allow Large Language Models to interact
 with APIs through a standardized protocol.
 """
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __author__ = "automcp.ai team"
 __email__ = "gavin@automcp.ai"
 
